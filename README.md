@@ -7,8 +7,8 @@ A curated list of Lisk or resources, services and tools for software developers
 List of content
 
 - [Official Links](#official-links)
-- [Websites And Blogs](#websites-and-blogs)
 - [Lisk Team](#lisk-team)
+- [Websites And Blogs](#websites-and-blogs)
 - [Twitter](#twitter)
 - [Facebook](#facebook)
 - [Reddit](#reddit)
@@ -30,16 +30,16 @@ List of content
 * [Coinmarketcap Listing](https://coinmarketcap.com/currencies/lisk) Lisk listing on Coinmarketcap
 * [Bitcointalk Announcement](https://bitcointalk.org/index.php?topic=1346646) Lisk announcement on Bitcointalk
 
-# Websites And Blogs
-* [Lisk.support](https://lisk.support) Community website for Lisk knowledge and news
-* [Livecoinwatch.com/coins/lsk](https://www.livecoinwatch.com/coins/LSK) Coinmarketcap style Lisk market cap in realtime
-
 # Lisk Team
 * [Lisk.io/team](https://lisk.io/team) Lisk team members page
 * Thomas Schouten (Marketing Lead at @LiskHQ) [(Twitter)](https://twitter.com/Thomelsch) [(LinkedIn)](https://www.linkedin.com/in/thomasmschouten) 
 * Lindsay Buescher (Marketing Manager ar @LiskHQ) [(Twitter)](https://twitter.com/Lindsay4Liberty) [(LinkedIn)](https://linkedin.com/in/lindsaybuescher) 
 * Isabella Dell (System Architect at @LiskHQ) [(Twitter)](https://twitter.com/Isabella_Lisk) [(LinkedIn)](https://linkedin.com/in/dellisabella) 
 * Hüseyin Yilmaz (Lead Design at @LiskHQ) [(Twitter)](https://twitter.com/imfine_thankyou) [(LinkedIn)](https://www.linkedin.com/in/h%25C3%25BCseyin-yilmaz-48529460) 
+
+# Websites And Blogs
+* [Lisk.support](https://lisk.support) Community website for Lisk knowledge and news
+* [Livecoinwatch.com/coins/lsk](https://www.livecoinwatch.com/coins/LSK) Coinmarketcap style Lisk market cap in realtime
 
 # Twitter
 * [LiskHQ Twitter](https://twitter.com/LiskHQ) Official Lisk Twitter
