@@ -8,6 +8,7 @@ List of content
 
 - [Official Links](#official-links)
 - [Websites And Blogs](#websites-and-blogs)
+- [Lisk Team](#lisk-team)
 - [Twitter](#twitter)
 - [Facebook](#facebook)
 - [Reddit](#reddit)
@@ -31,12 +32,14 @@ List of content
 # Websites And Blogs
 * [Lisk.support](https://lisk.support) Community website for Lisk knowledge and news
 
+# Lisk Team
+* Thomas Schouten (Marketing Lead at @LiskHQ) [(Twitter)](https://twitter.com/Thomelsch) [(LinkedIn)](https://www.linkedin.com/in/thomasmschouten) 
+* Lindsay Buescher (Marketing Manager ar @LiskHQ) [(Twitter)](https://twitter.com/Lindsay4Liberty) [(LinkedIn)](https://linkedin.com/in/lindsaybuescher) 
+* Isabella Dell (System Architect at @LiskHQ) [(Twitter)](https://twitter.com/Isabella_Lisk) [(LinkedIn)](https://linkedin.com/in/dellisabella) 
+* Hüseyin Yilmaz (Lead Design at @LiskHQ) [(Twitter)](https://twitter.com/imfine_thankyou) [(LinkedIn)](https://www.linkedin.com/in/h%25C3%25BCseyin-yilmaz-48529460) 
+
 # Twitter
 * [LiskHQ Twitter](https://twitter.com/LiskHQ) Official Lisk Twitter
-* [Thomas Schouten Twitter](https://twitter.com/Thomelsch) Thomas Schouten (Marketing Lead at @LiskHQ)
-* [Lindsay Buescher Twitter](https://twitter.com/Lindsay4Liberty) Lindsay Buescher (Marketing Manager ar @LiskHQ)
-* [Isabella Dell Twitter](https://twitter.com/Isabella_Lisk) Isabella Dell (System Architect at @LiskHQ)
-* [Hüseyin Yilmaz Twitter](https://twitter.com/imfine_thankyou) Hüseyin Yilmaz (Lead Design at @LiskHQ)
 
 # Facebook
 * [LiskHQ Facebook](https://www.facebook.com/LiskHQ) Official Lisk Facebook
