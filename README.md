@@ -1,6 +1,8 @@
 Awesome Lisk
 ===============
 
+![Image of Yaktocat](awesome-lisk/Lisk.jpg)
+
 A curated list of Lisk or resources, services and tools for software developers
 
 List of content
