@@ -52,5 +52,5 @@ List of content
 # tools
 * [dpostools.com/lisk](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
 
-# Donations
-Awesome list made by BlueDragon: 5755886524444585708L
+# donations
+Awesome list made by BlueDragon, you can donate Lisk here: 5755886524444585708L
