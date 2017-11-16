@@ -43,4 +43,4 @@ List of content
 * [Testnet-explorer.lisk.io](https://testnet-explorer.lisk.io) The main Lisk Testnet blockchain explorer
 
 # tools
-* [Explorer.lisk.io](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
+* [dpostools.com/lisk](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
