@@ -35,5 +35,5 @@ List of content
 * [lisk.io](https://lisk.io) The official Lisk website
 * [lisk.io](https://lisk.io) The official Lisk website
 
-# Official_Links
+# Official Links
 * [lisk.io](https://lisk.io) The official Lisk website
