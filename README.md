@@ -11,7 +11,7 @@ List of content
 - [a002](#a002)
 - [a003](#a003)
 
-# Official Links
+# Official
 * [lisk.io](https://lisk.io) The official Lisk website
 
 # a001
