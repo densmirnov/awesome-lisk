@@ -6,12 +6,12 @@ A curated list of Lisk or resources, services and tools for software developers
 
 List of content
 
-- [Official Links](#official links)
+- [Official Links](#official_links)
 - [a001](#a001)
 - [a002](#a002)
 - [a003](#a003)
 
-# official links
+# official_links
 * [lisk.io](https://lisk.io) The official Lisk website
 
 # a001
