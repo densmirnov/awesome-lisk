@@ -1,6 +1,5 @@
 Awesome Lisk
 ===============
-![Logo](awesome-lisk/Lisk.jpg)
 
 A curated list of Lisk or resources, services and tools for software developers
 
