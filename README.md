@@ -33,6 +33,7 @@ List of content
 * [Lisk.support](https://lisk.support) Community website for Lisk knowledge and news
 
 # Lisk Team
+* [Lisk.io/team](https://lisk.io/team) Lisk team members page
 * Thomas Schouten (Marketing Lead at @LiskHQ) [(Twitter)](https://twitter.com/Thomelsch) [(LinkedIn)](https://www.linkedin.com/in/thomasmschouten) 
 * Lindsay Buescher (Marketing Manager ar @LiskHQ) [(Twitter)](https://twitter.com/Lindsay4Liberty) [(LinkedIn)](https://linkedin.com/in/lindsaybuescher) 
 * Isabella Dell (System Architect at @LiskHQ) [(Twitter)](https://twitter.com/Isabella_Lisk) [(LinkedIn)](https://linkedin.com/in/dellisabella) 
