@@ -24,7 +24,7 @@ List of content
 * [Lisk Documentation](https://docs.lisk.io/docs) Official Lisk documentation
 * [Lisk FAQ](https://docs.lisk.io/docs/faqs) Official Lisk FAQ
 * [Lisk Support](https://lisk.zendesk.com/hc/en-us) Official Lisk Support
-* [Lisk Github](https://github.com/LiskHQ) Official Lisk Github
+* [Lisk Github](https://github.com/LiskHQ) Official Lisk Github [(Bug Reports)](https://github.com/LiskHQ/lisk/issues)
 * [Coinmarketcap Listing](https://coinmarketcap.com/currencies/lisk) Lisk listing on Coinmarketcap
 * [Bitcointalk Announcement](https://bitcointalk.org/index.php?topic=1346646) Lisk announcement on Bitcointalk
 
