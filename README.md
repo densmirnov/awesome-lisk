@@ -27,7 +27,6 @@ List of content
 * [Lindsay Buescher Twitter](https://twitter.com/Lindsay4Liberty) Lindsay Buescher (Marketing Manager ar @LiskHQ)
 * [Isabella Dell Twitter](https://twitter.com/Isabella_Lisk) Isabella Dell (System Architect at @LiskHQ)
 * [Hüseyin Yilmaz Twitter](https://twitter.com/imfine_thankyou) Hüseyin Yilmaz (Lead Design at @LiskHQ)
-
 * [Lisk (Cryptocurrency) Facebook Group](https://www.facebook.com/groups/329214464226295) Lisk Facebook group for discussion
 
 # reddit
