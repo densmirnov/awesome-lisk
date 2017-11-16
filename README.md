@@ -12,6 +12,7 @@ List of content
 - [Reddit](#reddit)
 - [Wallets](#wallets)
 - [Blockchains](#blockchains)
+- [JavaScript Libraries](#javascript-libraries)
 - [Tools](#tools)
 
 # official
@@ -48,6 +49,9 @@ List of content
 # blockchains
 * [Explorer.lisk.io](https://explorer.lisk.io) The main Lisk blockchain explorer [(Github)](https://github.com/LiskHQ/lisk-explorer)
 * [Testnet-explorer.lisk.io](https://testnet-explorer.lisk.io) The main Lisk Testnet blockchain explorer
+
+# JavaScript Libraries
+* [Lisk JS](https://github.com/LiskHQ/lisk-js) JavaScript library for Lisk [(API Doc)](https://liskhq.github.io/lisk-js)
 
 # tools
 * [dpostools.com/lisk](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
