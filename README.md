@@ -25,19 +25,23 @@ List of content
 * [Lisk Github](https://github.com/LiskHQ) Official Lisk Github
 
 # twitter
-* [LiskHQ Twitter](https://twitter.com/LiskHQ) The official Lisk Twitter
+* [LiskHQ Twitter](https://twitter.com/LiskHQ) Official Lisk Twitter
 * [Thomas Schouten Twitter](https://twitter.com/Thomelsch) Thomas Schouten (Marketing Lead at @LiskHQ)
 * [Lindsay Buescher Twitter](https://twitter.com/Lindsay4Liberty) Lindsay Buescher (Marketing Manager ar @LiskHQ)
 * [Isabella Dell Twitter](https://twitter.com/Isabella_Lisk) Isabella Dell (System Architect at @LiskHQ)
 * [Hüseyin Yilmaz Twitter](https://twitter.com/imfine_thankyou) Hüseyin Yilmaz (Lead Design at @LiskHQ)
 
 # facebook
+* [LiskHQ Facebook](https://www.facebook.com/LiskHQ) Official Lisk Facebook
 * [Lisk (Cryptocurrency) Facebook Group](https://www.facebook.com/groups/329214464226295) Lisk Facebook group for discussion
 
 # reddit
 * [Lisk Subreddit](https://www.reddit.com/r/Lisk) The official Lisk Subreddit (r/Lisk)
 * [Lisk Delegates Subreddit](https://www.reddit.com/r/LiskDelegates) Lisk Delegates Subreddit (r/LiskDelegates)
 * [Lisk Markets Subreddit](https://www.reddit.com/r/LiskMarkets) Lisk Markets Subreddit (r/LiskMarkets)
+
+# wallets
+* [Lisk Nano](https://github.com/LiskHQ/lisk-nano/releases) Lisk Nano wallet [(Github)](https://github.com/LiskHQ/lisk-nano)
 
 # blockchains
 * [Explorer.lisk.io](https://explorer.lisk.io) The main Lisk blockchain explorer [(Github)](https://github.com/LiskHQ/lisk-explorer)
