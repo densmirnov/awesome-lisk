@@ -14,7 +14,7 @@ List of content
 - [Tools](#tools)
 
 # official
-* [Lisk.io](https://lisk.io) Official Lisk website
+* [Lisk.io](https://lisk.io) Official Lisk website [(Github)](https://github.com/LiskHQ/lisk-website)
 * [Blog.lisk.io](https://blog.lisk.io) Official Lisk blog
 * [Forum.lisk.io](https://forum.lisk.io) Official Lisk forum
 * [Lisk.chat](https://lisk.chat) Official Lisk chat room
