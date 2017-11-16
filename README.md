@@ -6,7 +6,7 @@ A curated list of Lisk or resources, services and tools for software developers
 
 List of content
 
-- [Official Links](#official)
+- [Official Links](#official-links)
 - [Twitter](#twitter)
 - [Facebook](#facebook)
 - [Reddit](#reddit)
@@ -15,7 +15,7 @@ List of content
 - [JavaScript Libraries](#javascript-libraries)
 - [Tools](#tools)
 
-# official
+# Official Links
 * [Lisk.io](https://lisk.io) Official Lisk website [(Github)](https://github.com/LiskHQ/lisk-website)
 * [Blog.lisk.io](https://blog.lisk.io) Official Lisk blog
 * [Forum.lisk.io](https://forum.lisk.io) Official Lisk forum
@@ -27,34 +27,34 @@ List of content
 * [Coinmarketcap Listing](https://coinmarketcap.com/currencies/lisk) Lisk listing on Coinmarketcap
 * [Bitcointalk Announcement](https://bitcointalk.org/index.php?topic=1346646) Lisk announcement on Bitcointalk
 
-# twitter
+# Twitter
 * [LiskHQ Twitter](https://twitter.com/LiskHQ) Official Lisk Twitter
 * [Thomas Schouten Twitter](https://twitter.com/Thomelsch) Thomas Schouten (Marketing Lead at @LiskHQ)
 * [Lindsay Buescher Twitter](https://twitter.com/Lindsay4Liberty) Lindsay Buescher (Marketing Manager ar @LiskHQ)
 * [Isabella Dell Twitter](https://twitter.com/Isabella_Lisk) Isabella Dell (System Architect at @LiskHQ)
 * [Hüseyin Yilmaz Twitter](https://twitter.com/imfine_thankyou) Hüseyin Yilmaz (Lead Design at @LiskHQ)
 
-# facebook
+# Facebook
 * [LiskHQ Facebook](https://www.facebook.com/LiskHQ) Official Lisk Facebook
 * [Lisk (Cryptocurrency) Facebook Group](https://www.facebook.com/groups/329214464226295) Lisk Facebook group for discussion
 
-# reddit
+# Reddit
 * [Lisk Subreddit](https://www.reddit.com/r/Lisk) The official Lisk Subreddit (r/Lisk)
 * [Lisk Delegates Subreddit](https://www.reddit.com/r/LiskDelegates) Lisk Delegates Subreddit (r/LiskDelegates)
 * [Lisk Markets Subreddit](https://www.reddit.com/r/LiskMarkets) Lisk Markets Subreddit (r/LiskMarkets)
 
-# wallets
+# Wallets
 * [Lisk Nano](https://github.com/LiskHQ/lisk-nano/releases) Lisk Nano wallet [(Github)](https://github.com/LiskHQ/lisk-nano)
 
-# blockchains
+# Blockchains
 * [Explorer.lisk.io](https://explorer.lisk.io) The main Lisk blockchain explorer [(Github)](https://github.com/LiskHQ/lisk-explorer)
 * [Testnet-explorer.lisk.io](https://testnet-explorer.lisk.io) The main Lisk Testnet blockchain explorer
 
 # JavaScript Libraries
 * [Lisk JS](https://github.com/LiskHQ/lisk-js) JavaScript library for Lisk [(API Doc)](https://liskhq.github.io/lisk-js)
 
-# tools
+# Tools
 * [dpostools.com/lisk](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
 
-# donations
+# Donations
 Awesome list made by BlueDragon, you can donate Lisk here: 5755886524444585708L
