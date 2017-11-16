@@ -6,10 +6,13 @@ A curated list of Lisk or resources, services and tools for software developers
 
 List of content
 
+- [Official](#Official)
 - [a001](#a001)
 - [a002](#a002)
 - [a003](#a003)
-- [Official Links](#Official)
+
+# Official Links
+* [lisk.io](https://lisk.io) The official Lisk website
 
 # a001
 * [lisk.io](https://lisk.io) The official Lisk website
@@ -33,7 +36,4 @@ List of content
 * [lisk.io](https://lisk.io) The official Lisk website
 * [lisk.io](https://lisk.io) The official Lisk website
 * [lisk.io](https://lisk.io) The official Lisk website
-* [lisk.io](https://lisk.io) The official Lisk website
-
-# Official Links [ ](#Official)
 * [lisk.io](https://lisk.io) The official Lisk website
