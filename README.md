@@ -9,7 +9,7 @@ List of content
 - [Official Links](#official)
 - [Blockchains](#blockchains)
 
-# official
+# Official Links {#official}
 * [Lisk.io](https://lisk.io) The official Lisk website
 * [Lisk.chat](https://lisk.chat) The official Lisk chat room
 * [Lisk Documentation](https://docs.lisk.io/docs) The official Lisk documentation
