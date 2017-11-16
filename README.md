@@ -9,7 +9,7 @@ List of content
 - [a001](#a001)
 - [a002](#a002)
 - [a003](#a003)
-- [Official Links](#Official Links)
+- [Official Links](#OfficialLinks)
 
 # a001
 * [lisk.io](https://lisk.io) The official Lisk website
@@ -35,5 +35,5 @@ List of content
 * [lisk.io](https://lisk.io) The official Lisk website
 * [lisk.io](https://lisk.io) The official Lisk website
 
-# Official Links
+# Official_Links
 * [lisk.io](https://lisk.io) The official Lisk website
