@@ -7,6 +7,7 @@ A curated list of Lisk or resources, services and tools for software developers
 List of content
 
 - [Official Links](#official-links)
+- [Websites And Blogs](#websites-and-blogs)
 - [Twitter](#twitter)
 - [Facebook](#facebook)
 - [Reddit](#reddit)
@@ -27,7 +28,7 @@ List of content
 * [Coinmarketcap Listing](https://coinmarketcap.com/currencies/lisk) Lisk listing on Coinmarketcap
 * [Bitcointalk Announcement](https://bitcointalk.org/index.php?topic=1346646) Lisk announcement on Bitcointalk
 
-# Websites
+# Websites And Blogs
 * [Lisk.support](https://lisk.support) Community website for Lisk knowledge and news
 
 # Twitter
