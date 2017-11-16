@@ -11,6 +11,7 @@ List of content
 - [Facebook](#facebook)
 - [Reddit](#reddit)
 - [Blockchains](#blockchains)
+- [Tools](#tools)
 
 # official
 * [Lisk.io](https://lisk.io) Official Lisk website
@@ -40,3 +41,6 @@ List of content
 # blockchains
 * [Explorer.lisk.io](https://explorer.lisk.io) The main Lisk blockchain explorer
 * [Testnet-explorer.lisk.io](https://testnet-explorer.lisk.io) The main Lisk Testnet blockchain explorer
+
+# tools
+* [Explorer.lisk.io](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
