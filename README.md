@@ -39,7 +39,7 @@ List of content
 * [Lisk Markets Subreddit](https://www.reddit.com/r/LiskMarkets) Lisk Markets Subreddit (r/LiskMarkets)
 
 # blockchains
-* [Explorer.lisk.io](https://explorer.lisk.io) The main Lisk blockchain explorer
+* [Explorer.lisk.io](https://explorer.lisk.io) The main Lisk blockchain explorer [(Github)](https://github.com/LiskHQ/lisk-explorer)
 * [Testnet-explorer.lisk.io](https://testnet-explorer.lisk.io) The main Lisk Testnet blockchain explorer
 
 # tools
