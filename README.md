@@ -27,6 +27,9 @@ List of content
 * [Coinmarketcap Listing](https://coinmarketcap.com/currencies/lisk) Lisk listing on Coinmarketcap
 * [Bitcointalk Announcement](https://bitcointalk.org/index.php?topic=1346646) Lisk announcement on Bitcointalk
 
+# Websites
+* [Lisk.support](https://lisk.support) Community website for Lisk knowledge and news
+
 # Twitter
 * [LiskHQ Twitter](https://twitter.com/LiskHQ) Official Lisk Twitter
 * [Thomas Schouten Twitter](https://twitter.com/Thomelsch) Thomas Schouten (Marketing Lead at @LiskHQ)
