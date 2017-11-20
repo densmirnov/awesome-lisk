@@ -62,6 +62,11 @@ List of content
 
 # JavaScript Libraries
 * [Lisk JS](https://github.com/LiskHQ/lisk-js) JavaScript library for Lisk [(API Doc)](https://liskhq.github.io/lisk-js)
+* [Lisky](https://github.com/LiskHQ/lisky) A NodeJS command line tool to interact wit Lisk nodes
+* [Lisk API Wrapper](https://github.com/dakk/liskapi) A NodeJS smart wrapper for Lisk node APIs
+
+# Coding Resources
+* [Lisktools.io](https://lisktools.io) Various useful tools and information for Lisk
 
 # Tools
 * [Lisktools.io](https://lisktools.io) Various useful tools and information for Lisk
@@ -69,6 +74,9 @@ List of content
 * [Lisk.builders/votemanager](https://lisk.builders/votemanager) A voting manager tool to help optimse your votes
 * [Lisk.support/lisk-pending](https://lisk.support/lisk-pending) A tool to check how much lisk you have pending from your current votes
 * [Lisk Delegate Charts](https://monivea.com/lisk-delegate-charts) A list of the top ranking Lisk delegates
+
+# Browser Extensions
+* [Lisk Price Ticker](https://chrome.google.com/webstore/detail/lisk-ticker/nddfpgnfeckojmofblmofodikhbplbfd) A Chrome extension to see the price of lisk in Chrome browser
 
 ## Donations
 Awesome list made by BlueDragon, you can donate Lisk here: 5755886524444585708L
