@@ -66,7 +66,7 @@ List of content
 # Tools
 * [Dpostools.com/lisk](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
 * [Lisk.builders/votemanager](https://lisk.builders/votemanager) A voting manager tool to help optimse your votes
-* [Lisk.support/lisk-pending](https://lisk.support/lisk-pending) A tool to check how much lisk payments you have pending from your current votes
+* [Lisk.support/lisk-pending](https://lisk.support/lisk-pending) A tool to check how much lisk you have pending from your current votes
 
 ## Donations
 Awesome list made by BlueDragon, you can donate Lisk here: 5755886524444585708L
