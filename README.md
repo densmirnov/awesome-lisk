@@ -64,7 +64,8 @@ List of content
 * [Lisk JS](https://github.com/LiskHQ/lisk-js) JavaScript library for Lisk [(API Doc)](https://liskhq.github.io/lisk-js)
 
 # Tools
-* [dpostools.com/lisk](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
+* [Dpostools.com/lisk](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
+* [Lisk.builders/votemanager](https://lisk.builders/votemanager) A voting manager tool to help optimse your votes
 
 ## Donations
 Awesome list made by BlueDragon, you can donate Lisk here: 5755886524444585708L
