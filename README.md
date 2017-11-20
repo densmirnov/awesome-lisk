@@ -14,8 +14,11 @@ List of content
 - [Reddit](#reddit)
 - [Wallets](#wallets)
 - [Blockchains](#blockchains)
-- [JavaScript Libraries](#javascript-libraries)
+- [JavaScript](#javascript)
+- [Python](#python)
 - [Tools](#tools)
+- [Browser Extensions](#browser-extensions)
+- [Donations](#donations)
 
 # Official Links
 * [Lisk.io](https://lisk.io) Official Lisk website [(Github)](https://github.com/LiskHQ/lisk-website)
@@ -68,9 +71,6 @@ List of content
 
 # Python
 * [Lisk MultiSigner](https://github.com/simonmorgenthaler/Lisk-multiSigner) A python script to automatically sign multiple pending multisig-transactions
-
-# Coding Resources
-* [Lisktools.io](https://lisktools.io) Various useful tools and information for Lisk
 
 # Tools
 * [Lisktools.io](https://lisktools.io) Various useful tools and information for Lisk
