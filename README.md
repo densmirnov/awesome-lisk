@@ -60,10 +60,14 @@ List of content
 * [Explorer.lisk.io](https://explorer.lisk.io) The main Lisk blockchain explorer [(Github)](https://github.com/LiskHQ/lisk-explorer)
 * [Testnet-explorer.lisk.io](https://testnet-explorer.lisk.io) The main Lisk Testnet blockchain explorer
 
-# JavaScript Libraries
+# JavaScript
 * [Lisk JS](https://github.com/LiskHQ/lisk-js) JavaScript library for Lisk [(API Doc)](https://liskhq.github.io/lisk-js)
 * [Lisky](https://github.com/LiskHQ/lisky) A NodeJS command line tool to interact wit Lisk nodes
 * [Lisk API Wrapper](https://github.com/dakk/liskapi) A NodeJS smart wrapper for Lisk node APIs
+* [Lisk Buttons](https://github.com/lisk-builders/lisk-buttons) Buttons for sending Lisk payments and receiving votes
+
+# Python
+* [Lisk MultiSigner](https://github.com/simonmorgenthaler/Lisk-multiSigner) A python script to automatically sign multiple pending multisig-transactions
 
 # Coding Resources
 * [Lisktools.io](https://lisktools.io) Various useful tools and information for Lisk
@@ -72,6 +76,7 @@ List of content
 * [Lisktools.io](https://lisktools.io) Various useful tools and information for Lisk
 * [Dpostools.com/lisk](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
 * [Lisk.builders/votemanager](https://lisk.builders/votemanager) A voting manager tool to help optimse your votes
+* [Calculate voting rewards](https://pool.goforli.sk/rewards/calculator) Calculate your potentional voting rewards
 * [Lisk.support/lisk-pending](https://lisk.support/lisk-pending) A tool to check how much lisk you have pending from your current votes
 * [Lisk Delegate Charts](https://monivea.com/lisk-delegate-charts) A list of the top ranking Lisk delegates
 
