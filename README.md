@@ -64,6 +64,7 @@ List of content
 * [Lisk JS](https://github.com/LiskHQ/lisk-js) JavaScript library for Lisk [(API Doc)](https://liskhq.github.io/lisk-js)
 
 # Tools
+* [Lisktools.io](https://lisktools.io) Various useful tools and information for Lisk
 * [Dpostools.com/lisk](https://dpostools.com/LISK) DPoS Tools for Lisk holders and delegates
 * [Lisk.builders/votemanager](https://lisk.builders/votemanager) A voting manager tool to help optimse your votes
 * [Lisk.support/lisk-pending](https://lisk.support/lisk-pending) A tool to check how much lisk you have pending from your current votes
