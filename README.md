@@ -19,7 +19,6 @@ List of content
 - [Python](#python)
 - [Tools](#tools)
 - [Browser Extensions](#browser-extensions)
-- [Exchanges](#exchanges)
 
 - [Donations](#donations)
 
@@ -90,9 +89,6 @@ List of content
 
 # Browser Extensions
 * [Lisk Price Ticker](https://chrome.google.com/webstore/detail/lisk-ticker/nddfpgnfeckojmofblmofodikhbplbfd) A Chrome extension to see the price of lisk in Chrome browser
-
-# Exchanges
-* [HitBTC](https://hitbtc.com/?ref_id=5a1d9fb208cc7) HitBTC exchange
 
 ## Donations
 Awesome list made by BlueDragon, you can donate Lisk here: 5755886524444585708L
