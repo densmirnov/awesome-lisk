@@ -17,6 +17,7 @@ List of content
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Tools](#tools)
 - [Browser Extensions](#browser-extensions)
 - [Donations](#donations)
@@ -77,6 +78,9 @@ List of content
 
 # Python
 * [Lisk MultiSigner](https://github.com/simonmorgenthaler/Lisk-multiSigner) A python script to automatically sign multiple pending multisig-transactions
+
+# Ruby
+* [Lisk.rb](https://github.com/4fryn/lisk.rb) A Ruby wrapper for the Lisk API
 
 # Tools
 * [Lisktools.io](https://lisktools.io) Various useful tools and information for Lisk
