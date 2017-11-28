@@ -69,6 +69,7 @@ List of content
 * [Lisky](https://github.com/LiskHQ/lisky) A NodeJS command line tool to interact wit Lisk nodes
 * [Lisk API Wrapper](https://github.com/dakk/liskapi) A NodeJS smart wrapper for Lisk node APIs
 * [Lisk Buttons](https://github.com/lisk-builders/lisk-buttons) Buttons for sending Lisk payments and receiving votes
+* [Moracle.network](https://moracle.network) Moracle is the decentralized and programmable oracle for Lisk
 
 # Python
 * [Lisk MultiSigner](https://github.com/simonmorgenthaler/Lisk-multiSigner) A python script to automatically sign multiple pending multisig-transactions
