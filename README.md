@@ -15,6 +15,7 @@ List of content
 - [Wallets](#wallets)
 - [Blockchains](#blockchains)
 - [JavaScript](#javascript)
+- [PHP](#php)
 - [Python](#python)
 - [Tools](#tools)
 - [Browser Extensions](#browser-extensions)
@@ -70,6 +71,9 @@ List of content
 * [Lisk API Wrapper](https://github.com/dakk/liskapi) A NodeJS smart wrapper for Lisk node APIs
 * [Lisk Buttons](https://github.com/lisk-builders/lisk-buttons) Buttons for sending Lisk payments and receiving votes
 * [Moracle.network](https://moracle.network) Moracle is the decentralized and programmable oracle for Lisk
+
+# PHP
+* [LiskPHP](https://github.com/cb0/LiskPHP) A PHP wrapper for the LISK API
 
 # Python
 * [Lisk MultiSigner](https://github.com/simonmorgenthaler/Lisk-multiSigner) A python script to automatically sign multiple pending multisig-transactions
