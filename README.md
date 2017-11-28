@@ -19,7 +19,6 @@ List of content
 - [Python](#python)
 - [Tools](#tools)
 - [Browser Extensions](#browser-extensions)
-
 - [Donations](#donations)
 
 # Official Links
