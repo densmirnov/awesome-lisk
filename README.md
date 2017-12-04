@@ -90,6 +90,7 @@ List of content
 * [Calculate voting rewards](https://pool.goforli.sk/rewards/calculator) Calculate your potentional voting rewards
 * [Lisk.support/lisk-pending](https://lisk.support/lisk-pending) A tool to check how much lisk you have pending from your current votes
 * [Lisk Delegate Charts](https://monivea.com/lisk-delegate-charts) A list of the top ranking Lisk delegates
+* [Lisk Value Calculator](https://bluedragon555.github.io/Lisk-Value-Calculator) A tool to quickly find the value of an amount of Lisk
 
 # Browser Extensions
 * [Lisk Price Ticker](https://chrome.google.com/webstore/detail/lisk-ticker/nddfpgnfeckojmofblmofodikhbplbfd) A Chrome extension to see the price of lisk in Chrome browser
