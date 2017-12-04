@@ -61,6 +61,7 @@ List of content
 
 # Wallets
 * [Lisk Nano](https://github.com/LiskHQ/lisk-nano/releases) Lisk Nano wallet [(Github)](https://github.com/LiskHQ/lisk-nano)
+* [Lisk Paper Wallet](https://liskpaper.com) Lisk offline paper wallet generator
 
 # Blockchains
 * [Explorer.lisk.io](https://explorer.lisk.io) The main Lisk blockchain explorer [(Github)](https://github.com/LiskHQ/lisk-explorer)
