@@ -94,6 +94,7 @@ List of content
 
 # Browser Extensions
 * [Lisk Price Ticker](https://chrome.google.com/webstore/detail/lisk-ticker/nddfpgnfeckojmofblmofodikhbplbfd) A Chrome extension to see the price of lisk in Chrome browser
+* [Lisk Value Calculator](https://chrome.google.com/webstore/detail/lisk-value-calculator/ebbaejiebkagmdfnhmnmffkjmeejpmok) A Chrome extension to quickly calculate how much any input amount of Lisk is worth
 
 ## Donations
 Awesome list made by BlueDragon, you can donate Lisk here: 5755886524444585708L
