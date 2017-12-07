@@ -46,6 +46,7 @@ List of content
 * [Lisk.support](https://lisk.support) Community website for Lisk knowledge and news
 * [Liskhunt.com](https://liskhunt.com) Community website with hand picked projects built around Lisk
 * [Livecoinwatch.com/coins/lsk](https://www.livecoinwatch.com/coins/LSK) Coinmarketcap style Lisk market cap in realtime
+* [Liskpoland.pl](http://liskpoland.pl) Community website and information for Polish Lisk users
 
 # Twitter
 * [LiskHQ Twitter](https://twitter.com/LiskHQ) Official Lisk Twitter
