@@ -94,6 +94,7 @@ List of content
 * [Lisk.support/lisk-pending](https://lisk.support/lisk-pending) A tool to check how much lisk you have pending from your current votes
 * [Lisk Delegate Charts](https://monivea.com/lisk-delegate-charts) A list of the top ranking Lisk delegates
 * [Lisk Value Calculator](https://bluedragon555.github.io/Lisk-Value-Calculator) A tool to quickly find the value of an amount of Lisk
+* [Lisk Nodes Status Check](https://bluedragon555.github.io/Lisk-Nodes-Status-Check) Check the status of the known Lisk nodes
 * [Lisk NotifyChain](https://lisk.notifychain.com) Receive an email when something happens on the Lisk network
 
 # Browser Extensions
