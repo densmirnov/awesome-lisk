@@ -21,6 +21,7 @@ List of content
 - [Tools](#tools)
 - [Browser Extensions](#browser-extensions)
 - [Donations](#donations)
+- [Misc](#misc)
 
 # Official Links
 * [Lisk.io](https://lisk.io) Official Lisk website [(Github)](https://github.com/LiskHQ/lisk-website)
@@ -100,6 +101,9 @@ List of content
 # Browser Extensions
 * [Lisk Price Ticker](https://chrome.google.com/webstore/detail/lisk-ticker/nddfpgnfeckojmofblmofodikhbplbfd) A Chrome extension to see the price of lisk in Chrome browser
 * [Lisk Value Calculator](https://chrome.google.com/webstore/detail/lisk-value-calculator/ebbaejiebkagmdfnhmnmffkjmeejpmok) A Chrome extension to quickly calculate how much any input amount of Lisk is worth
+
+# Misc
+* [Liska Chat Bot](https://forum.lisk.io/viewtopic.php?t=659) Liska is a chat bot for the Lisk chat room
 
 ## Donations
 Awesome list made by BlueDragon, you can donate Lisk here: 5755886524444585708L
