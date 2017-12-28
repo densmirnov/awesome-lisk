@@ -56,7 +56,7 @@ List of content
 
 # Facebook
 * [LiskHQ Facebook](https://www.facebook.com/LiskHQ) Official Lisk Facebook
-* [Lisk (Cryptocurrency) Facebook Group](https://www.facebook.com/groups/329214464226295) Lisk Facebook group for discussion
+* [Lisk Project Facebook Group](https://www.facebook.com/groups/329214464226295) Lisk Facebook group for discussion
 
 # Reddit
 * [Lisk Subreddit](https://www.reddit.com/r/Lisk) The official Lisk Subreddit (r/Lisk)
